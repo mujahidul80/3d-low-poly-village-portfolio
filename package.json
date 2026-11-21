@@ -6,7 +6,7 @@
     "scripts":  {
                     "dev":  "npx -y serve . -l 3000",
                     "start":  "npx -y serve . -l 3000",
-                    "build":  "node -e \"const fs=require(\u0027fs\u0027); fs.mkdirSync(\u0027public\u0027, {recursive:true}); fs.copyFileSync(\u0027index.html\u0027, \u0027public/index.html\u0027); if(fs.existsSync(\u0027robots.txt\u0027)) fs.copyFileSync(\u0027robots.txt\u0027, \u0027public/robots.txt\u0027); if(fs.existsSync(\u0027sitemap.xml\u0027)) fs.copyFileSync(\u0027sitemap.xml\u0027, \u0027public/sitemap.xml\u0027); console.log(\u0027Build completed: public output directory generated.\u0027);\""
+                    "build":  "node -e \"const fs=require(\u0027fs\u0027); [\u0027public\u0027, \u0027dist\u0027].forEach(d =\u003e { fs.mkdirSync(d, {recursive:true}); fs.copyFileSync(\u0027index.html\u0027, d + \u0027/index.html\u0027); if(fs.existsSync(\u0027robots.txt\u0027)) fs.copyFileSync(\u0027robots.txt\u0027, d + \u0027/robots.txt\u0027); if(fs.existsSync(\u0027sitemap.xml\u0027)) fs.copyFileSync(\u0027sitemap.xml\u0027, d + \u0027/sitemap.xml\u0027); }); console.log(\u0027Build completed: public \u0026 dist directories ready.\u0027);\""
                 },
     "keywords":  [
                      "threejs",
