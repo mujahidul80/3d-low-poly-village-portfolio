@@ -1,0 +1,36 @@
+{
+  "name": "3d-low-poly-village-portfolio",
+  "version": "1.0.0",
+  "description": "Interactive 3D Low-Poly Village Portfolio built with Three.js & Tailwind CSS by Md Mujahidul Islam",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx -y serve . -l 3000",
+    "start": "npx -y serve . -l 3000",
+    "build": "echo 'Static build ready. No compilation required.'"
+  },
+  "keywords": [
+    "threejs",
+    "threejs-portfolio",
+    "3d-portfolio",
+    "low-poly",
+    "webgl",
+    "packaging-designer",
+    "creative-developer",
+    "tailwind-css",
+    "interactive-portfolio",
+    "javascript"
+  ],
+  "author": {
+    "name": "Md Mujahidul Islam",
+    "url": "https://github.com/mujahidul80"
+  },
+  "license": "MIT",
+  "homepage": "https://mujahidul80.github.io/3d-low-poly-village-portfolio/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mujahidul80/3d-low-poly-village-portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mujahidul80/3d-low-poly-village-portfolio/issues"
+  }
+}
