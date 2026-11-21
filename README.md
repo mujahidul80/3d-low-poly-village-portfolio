@@ -195,18 +195,34 @@ npx serve .
 
 ---
 
-## 👤 Author & Connect
+## 👤 Author & Verified Connect
 
 **Md Mujahidul Islam**  
 *Packaging Designer • Graphic Designer • Creative Web Developer*
 
 <p align="left">
+  <a href="https://wa.me/8801571432927"><img src="https://img.shields.io/badge/WhatsApp-%2B880_1571--432927-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="mailto:mdmujahidul31@gmail.com"><img src="https://img.shields.io/badge/Email-mdmujahidul31%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://t.me/failuretm"><img src="https://img.shields.io/badge/Telegram-%40failuretm-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://www.behance.net/mujahidulib"><img src="https://img.shields.io/badge/Behance-mujahidulib-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
   <a href="https://github.com/mujahidul80"><img src="https://img.shields.io/badge/GitHub-mujahidul80-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://mujahidulib.blogspot.com"><img src="https://img.shields.io/badge/Blog-mujahidulib.blogspot.com-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" /></a>
-  <a href="https://wa.me/8801571432927"><img src="https://img.shields.io/badge/WhatsApp-Chat%20Direct-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="mailto:mdmujahidul31@gmail.com"><img src="https://img.shields.io/badge/Email-mdmujahidul31%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-059669?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
+
+### 📬 Direct Channels & Availability
+
+| Channel | Direct Access / Handle | Availability & Purpose | Action |
+| :--- | :--- | :--- | :--- |
+| **💬 WhatsApp** | `+880 1571-432927` | Direct chat, instant project inquiries & fast turnaround | [**Start WhatsApp Chat**](https://wa.me/8801571432927) |
+| **✉️ Official Email** | `mdmujahidul31@gmail.com` | Formal proposals, design briefs & commercial contracts | [**Send Email**](mailto:mdmujahidul31@gmail.com) |
+| **✈️ Telegram** | `@failuretm` | Quick messaging, files & international communication | [**Open Telegram**](https://t.me/failuretm) |
+| **🎨 Behance** | `behance.net/mujahidulib` | Packaging design, 3D mockups, print dielines & branding | [**View Portfolio**](https://www.behance.net/mujahidulib) |
+| **💻 GitHub** | `github.com/mujahidul80` | Open-source web platforms, Adobe Illustrator scripts | [**Inspect Repos**](https://github.com/mujahidul80) |
+| **🌐 Personal Blog** | `mujahidulib.blogspot.com` | Design logs, premium themes & creative tutorials | [**Visit Blog**](https://mujahidulib.blogspot.com) |
+| **📸 Instagram** | `@mujahidul_i3` | Creative artwork, typography & visual explorations | [**Follow**](https://instagram.com/mujahidul_i3) |
+| **📘 Facebook** | `Md Mujahidul Islam` | Social network & personal updates | [**Connect**](https://facebook.com/MUJAHIDUL.IB.LOVE.A.MA.BABA.50) |
+| **📍 Location** | `Dhaka, Bangladesh (GMT+6)` | Remote worldwide & on-site project collaboration | Open for Remote Work |
 
 ---
 
